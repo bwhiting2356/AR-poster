@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="cafe-text" size="0.200000 0.266667" />
+    <ImageTarget name="nice_day" size="0.220000 0.165000" />
+  </Tracking>
+</QCARConfig>
